@@ -1,0 +1,6 @@
+﻿  lab3_var8.c
+c:\users\ksusha\source\repos\lab3_var8\lab3_var8\lab3_var8.c(8): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab3_var8\lab3_var8\lab3_var8.c(9): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab3_var8\lab3_var8\lab3_var8.c(14): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\ksusha\source\repos\lab3_var8\lab3_var8\lab3_var8.c(26): warning C4013: 'system' undefined; assuming extern returning int
+  lab3_var8.vcxproj -> C:\Users\Ksusha\Source\Repos\lab3_var8\Debug\lab3_var8.exe

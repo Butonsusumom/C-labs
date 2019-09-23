@@ -1,0 +1,5 @@
+﻿  lab3_var2.c
+c:\users\ksusha\source\repos\lab3_var2\lab3_var2\lab3_var2.c(25): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab3_var2\lab3_var2\lab3_var2.c(26): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab3_var2\lab3_var2\lab3_var2.c(42): warning C4013: 'system' undefined; assuming extern returning int
+  lab3_var2.vcxproj -> C:\Users\Ksusha\Source\Repos\lab3_var2\Debug\lab3_var2.exe

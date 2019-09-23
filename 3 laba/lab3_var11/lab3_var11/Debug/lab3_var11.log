@@ -1,0 +1,7 @@
+﻿  lab3_var11.c
+c:\users\ksusha\source\repos\lab3_var11\lab3_var11\lab3_var11.c(6): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab3_var11\lab3_var11\lab3_var11.c(9): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab3_var11\lab3_var11\lab3_var11.c(10): warning C4013: 'tolower' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab3_var11\lab3_var11\lab3_var11.c(36): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab3_var11\lab3_var11\lab3_var11.c(4): warning C4101: 'str': unreferenced local variable
+  lab3_var11.vcxproj -> C:\Users\Ksusha\Source\Repos\lab3_var11\Debug\lab3_var11.exe
