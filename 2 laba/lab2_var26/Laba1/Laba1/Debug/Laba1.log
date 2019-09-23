@@ -1,0 +1,2 @@
+﻿  Laba1.cpp
+c:\users\ksusha\source\repos\laba1\laba1\laba1.cpp(10): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
