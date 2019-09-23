@@ -1,0 +1,3 @@
+﻿  lab2_var1.c
+c:\users\ksusha\source\repos\lab2_var1\lab2_var1\lab2_var1.c(42): warning C4013: 'system' undefined; assuming extern returning int
+  lab2_var1.vcxproj -> C:\Users\Ksusha\Source\Repos\lab2_var1\Debug\lab2_var1.exe
