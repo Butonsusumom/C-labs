@@ -1,0 +1,7 @@
+﻿  Source.c
+c:\users\ksusha\source\repos\lab3_var21\lab3_var21\source.c(4): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab3_var21\lab3_var21\source.c(6): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab3_var21\lab3_var21\source.c(7): warning C4013: 'isalpha' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab3_var21\lab3_var21\source.c(10): warning C4013: 'isdigit' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab3_var21\lab3_var21\source.c(13): warning C4013: 'system' undefined; assuming extern returning int
+  lab3_var21.vcxproj -> C:\Users\Ksusha\Source\Repos\lab3_var21\Debug\lab3_var21.exe
