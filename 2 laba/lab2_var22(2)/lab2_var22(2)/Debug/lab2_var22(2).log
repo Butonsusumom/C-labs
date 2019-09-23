@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\ksusha\source\repos\lab2_var22(2)\lab2_var22(2)\source.c(6): warning C4013: 'srand' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab2_var22(2)\lab2_var22(2)\source.c(10): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab2_var22(2)\lab2_var22(2)\source.c(56): warning C4013: 'system' undefined; assuming extern returning int
+  lab2_var22(2).vcxproj -> C:\Users\Ksusha\Source\Repos\lab2_var22(2)\Debug\lab2_var22(2).exe
