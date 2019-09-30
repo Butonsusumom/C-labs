@@ -1,10 +1,10 @@
 # 2 semester C lab
 ### 1 занятие - простые циклы
-> [1 лаба]()
+> [1 лаба](https://github.com/Butonsusumom/C-labs/tree/master/1%20laba)
 ### 2-3 занятия - матрицы
-> [2 лаба]() 
+> [2 лаба](https://github.com/Butonsusumom/C-labs/tree/master/2%20laba) 
 ### 4-5 занятия - строки
-> [3 лаба]()
+> [3 лаба](https://github.com/Butonsusumom/C-labs/tree/master/3%20laba)
 ### 6 занятие - структуры
-> [4 лаба]()
+> [4 лаба](https://github.com/Butonsusumom/C-labs/tree/master/4%20laba)
 
