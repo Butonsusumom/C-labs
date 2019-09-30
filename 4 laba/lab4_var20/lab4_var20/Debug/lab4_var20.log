@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\ksusha\source\repos\lab4_var20\lab4_var20\source.c(18): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var20\lab4_var20\source.c(27): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var20\lab4_var20\source.c(40): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var20\lab4_var20\source.c(56): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var20\lab4_var20\source.c(10): warning C4101: 'm': unreferenced local variable
+c:\users\ksusha\source\repos\lab4_var20\lab4_var20\source.c(12): warning C4101: 's': unreferenced local variable
+  lab4_var20.vcxproj -> C:\Users\Ksusha\Source\Repos\lab4_var20\Debug\lab4_var20.exe

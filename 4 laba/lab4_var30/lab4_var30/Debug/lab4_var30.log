@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\ksusha\source\repos\lab4_var30\lab4_var30\source.c(20): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var30\lab4_var30\source.c(66): warning C4013: 'system' undefined; assuming extern returning int
+  lab4_var30.vcxproj -> C:\Users\Ksusha\Source\Repos\lab4_var30\Debug\lab4_var30.exe

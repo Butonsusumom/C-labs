@@ -1,0 +1,6 @@
+﻿  Source.c
+c:\users\ksusha\source\repos\lab4_var26\lab4_var26\source.c(23): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var26\lab4_var26\source.c(24): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var26\lab4_var26\source.c(50): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var26\lab4_var26\source.c(94): warning C4013: 'system' undefined; assuming extern returning int
+  lab4_var26.vcxproj -> C:\Users\Ksusha\Source\Repos\lab4_var26\Debug\lab4_var26.exe

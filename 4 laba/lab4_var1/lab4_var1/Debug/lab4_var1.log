@@ -1,0 +1,11 @@
+﻿  Source.c
+c:\users\ksusha\source\repos\lab4_var1\lab4_var1\source.c(25): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var1\lab4_var1\source.c(29): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var1\lab4_var1\source.c(30): warning C4013: 'tolower' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var1\lab4_var1\source.c(49): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var1\lab4_var1\source.c(70): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab4_var1\lab4_var1\source.c(11): warning C4101: 'out': unreferenced local variable
+c:\users\ksusha\source\repos\lab4_var1\lab4_var1\source.c(15): warning C4101: 'sit': unreferenced local variable
+c:\users\ksusha\source\repos\lab4_var1\lab4_var1\source.c(16): warning C4101: 'h': unreferenced local variable
+c:\users\ksusha\source\repos\lab4_var1\lab4_var1\source.c(18): warning C4101: 'str': unreferenced local variable
+  lab4_var1.vcxproj -> C:\Users\Ksusha\Source\Repos\lab4_var1\Debug\lab4_var1.exe
