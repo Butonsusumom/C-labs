@@ -1,0 +1,6 @@
+﻿  Source.c
+c:\users\ksusha\source\repos\lab5_var30\lab5_var30\source.c(9): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab5_var30\lab5_var30\source.c(21): warning C4047: '=': 'char' differs in levels of indirection from 'char [2]'
+c:\users\ksusha\source\repos\lab5_var30\lab5_var30\source.c(22): warning C4047: '=': 'char' differs in levels of indirection from 'char [2]'
+c:\users\ksusha\source\repos\lab5_var30\lab5_var30\source.c(41): warning C4013: 'system' undefined; assuming extern returning int
+  lab5_var30.vcxproj -> C:\Users\Ksusha\Source\Repos\lab5_var30\Debug\lab5_var30.exe
