@@ -1,0 +1,9 @@
+﻿  Source.c
+c:\users\ksusha\source\repos\lab5_var14\lab5_var14\source.c(41): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab5_var14\lab5_var14\source.c(119): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab5_var14\lab5_var14\source.c(120): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab5_var14\lab5_var14\source.c(173): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\ksusha\source\repos\lab5_var14\lab5_var14\source.c(173): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\ksusha\source\repos\lab5_var14\lab5_var14\source.c(173): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\ksusha\source\repos\lab5_var14\lab5_var14\source.c(173): note: this argument is used as a buffer size
+  lab5_var14.vcxproj -> C:\Users\Ksusha\Source\Repos\lab5_var14\Debug\lab5_var14.exe

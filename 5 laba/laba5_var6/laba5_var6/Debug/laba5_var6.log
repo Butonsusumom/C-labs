@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\ksusha\source\repos\laba5_var6\laba5_var6\source.c(11): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\laba5_var6\laba5_var6\source.c(16): warning C4013: 'tolower' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\laba5_var6\laba5_var6\source.c(25): warning C4013: 'system' undefined; assuming extern returning int
+  laba5_var6.vcxproj -> C:\Users\Ksusha\Source\Repos\laba5_var6\Debug\laba5_var6.exe
