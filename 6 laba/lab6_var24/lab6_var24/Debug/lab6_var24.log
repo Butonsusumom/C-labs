@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\ksusha\source\repos\lab6_var24\lab6_var24\source.c(17): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab6_var24\lab6_var24\source.c(96): warning C4013: 'srand' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab6_var24\lab6_var24\source.c(98): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab6_var24\lab6_var24\source.c(118): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab6_var24\lab6_var24\source.c(91): warning C4101: 'root': unreferenced local variable
+c:\users\ksusha\source\repos\lab6_var24\lab6_var24\source.c(108): warning C4101: 'd': unreferenced local variable
+  lab6_var24.vcxproj -> C:\Users\Ksusha\Source\Repos\lab6_var24\Debug\lab6_var24.exe
