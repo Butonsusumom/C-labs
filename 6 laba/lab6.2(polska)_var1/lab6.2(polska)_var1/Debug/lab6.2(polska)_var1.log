@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\ksusha\source\repos\lab6.2(polska)_var1\lab6.2(polska)_var1\source.c(21): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab6.2(polska)_var1\lab6.2(polska)_var1\source.c(240): warning C4013: 'srand' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab6.2(polska)_var1\lab6.2(polska)_var1\source.c(242): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab6.2(polska)_var1\lab6.2(polska)_var1\source.c(265): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\ksusha\source\repos\lab6.2(polska)_var1\lab6.2(polska)_var1\source.c(235): warning C4101: 'root': unreferenced local variable
+c:\users\ksusha\source\repos\lab6.2(polska)_var1\lab6.2(polska)_var1\source.c(252): warning C4101: 'd': unreferenced local variable
+  lab6.2(polska)_var1.vcxproj -> C:\Users\Ksusha\Source\Repos\lab6.2(polska)_var1\Debug\lab6.2(polska)_var1.exe
