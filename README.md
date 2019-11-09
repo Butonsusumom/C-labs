@@ -11,10 +11,14 @@
 > [5 лаба](https://github.com/Butonsusumom/C-labs/tree/master/5%20laba)
 ### 8-10 занятия - динамические структуры данных
 > [6 лаба](https://github.com/Butonsusumom/C-labs/tree/master/6%20laba)
-### 11 занятиt - графика
-> [6 лаба](https://github.com/Butonsusumom/C-labs/tree/master/7%20laba)
+### 11 занятие - графика
+> [7 лаба](https://github.com/Butonsusumom/C-labs/tree/master/7%20laba)
 
->>
->>
->>
+>>> Анимация неба: плывущие облака, закат и потемнение экрана. Постепенное появление звезд. Рассвет и падающие смешарики.
+>>![Img_alt](https://github.com/Butonsusumom/C-labs/blob/master/7%20laba/Capture.PNG)
+
+>>![Img_alt](https://github.com/Butonsusumom/C-labs/blob/master/7%20laba/Capture1.PNG)
+
+>>![Img_alt](https://github.com/Butonsusumom/C-labs/blob/master/7%20laba/Capture2.PNG)
+
 
