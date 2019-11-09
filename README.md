@@ -9,6 +9,12 @@
 > [4 лаба](https://github.com/Butonsusumom/C-labs/tree/master/4%20laba)
 ### 7 занятие - файлы
 > [5 лаба](https://github.com/Butonsusumom/C-labs/tree/master/5%20laba)
-### 8-9 занятия - динамические структуры данных
+### 8-10 занятия - динамические структуры данных
 > [6 лаба](https://github.com/Butonsusumom/C-labs/tree/master/6%20laba)
+### 11 занятиt - графика
+> [6 лаба](https://github.com/Butonsusumom/C-labs/tree/master/7%20laba)
+
+>>
+>>
+>>
 
