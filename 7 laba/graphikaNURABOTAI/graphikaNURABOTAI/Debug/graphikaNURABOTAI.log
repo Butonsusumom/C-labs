@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\ksusha\source\repos\graphikanurabotai\graphikanurabotai\source.c(87): warning C4101: 'hdc': unreferenced local variable
+c:\users\ksusha\source\repos\graphikanurabotai\graphikanurabotai\source.c(86): warning C4101: 'ps': unreferenced local variable
+  graphikaNURABOTAI.vcxproj -> C:\Users\Ksusha\Source\Repos\graphikaNURABOTAI\Debug\graphikaNURABOTAI.exe
